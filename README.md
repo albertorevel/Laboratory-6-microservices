@@ -1,18 +1,18 @@
 # Laboratory 6 - microservices
 ## The two microservices are running and registered
 
-The account microservice is running:
+The account microservice dashboard:
 ![AccountsService](https://github.com/albertorevel/Laboratory-6-microservices/blob/master/images/lab6-accounts.PNG?raw=true)
 
-The web microservice is running
+The web microservice dashboard:
 ![WebService](https://github.com/albertorevel/Laboratory-6-microservices/blob/master/images/lab6-web.PNG?raw=true)
 
 ## The service registration service has the two microservices registered
-Both services are registered
+Both services are registered:
 ![WebRegister](https://github.com/albertorevel/Laboratory-6-microservices/blob/master/images/lab6-registry.PNG?raw=true)
 
 ## A second account microservice is running in the port 4444 and it is registered
-The other account service is registered
+The other account service dashborad:
 ![SecondAccountService](https://github.com/albertorevel/Laboratory-6-microservices/blob/master/images/lab6-accounts2.PNG?raw=true)
 
 ## A brief report describing what happens when you kill the microservice with port 2222. 
