@@ -5,7 +5,7 @@ User name | NIA |Repository|Proposal|Score
 ----------|-----|----------|--------|-----
 UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-6-microservices)
 AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes/Laboratory-6-microservices)
-Cristian Román |646564
+Cristian Román |646564 |[repo](https://github.com/khmDEV/Laboratory-6-microservices)
 Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/Laboratory-6-microservices)
 Marcos Canales Mayo | 467716 | [repo](https://github.com/MarcosCM/Laboratory-6-microservices)
 Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/Laboratory-6-microservices)
@@ -32,7 +32,7 @@ Luis Jesus Pellicer | 520256 | [repo](https://github.com/luisjesuspellicer/Labor
 Marcos Ruiz García | 648045 | [repo](https://github.com/marcosruiz/Laboratory-6-microservices)
 Óscar Meler Murillo | 608919 | [repo](https://github.com/oscarmeler/Laboratory-6-microservices)
 Aron Collados Torres | 626558
-Diego Sánchez Castillo | 628279 | [repo] (https://github.com/diegozgz92/Laboratory-6-microservices)
+Diego Sánchez Castillo | 628279 | [repo](https://github.com/diegozgz92/Laboratory-6-microservices)
 Rubén Gabás Celimendiz | 590738 | [repo](https://github.com/phyrionX/Laboratory-6-microservices)
 Daniel Forcén Esteban | 558471 | [repo](https://github.com/dforcen/Laboratory-6-microservices)
 Ramón José Arellano Bitrián | 594040
